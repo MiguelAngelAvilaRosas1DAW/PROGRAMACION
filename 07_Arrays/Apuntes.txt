@@ -1,3 +1,0 @@
--Un array se suele llamar vector en otros lenguajes.
-
--Array con enteros siempre empieza en 0, en python puede empezar en -1.
